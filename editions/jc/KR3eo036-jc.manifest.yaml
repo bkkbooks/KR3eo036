@@ -1,0 +1,434 @@
+canonical_identifier: bkk:krp/KR3eo036/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eo036/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 養生導引法
+  identifiers:
+    krp: KR3eo036
+  tags:
+    kr-categories: KR3eo
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eo036.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eo036_000-jc.yaml, hash: 'sha256:98442a7c2a1ca8d317e658b6f619bc9674fe5385497933208d2be809bc94e0bd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eo036_000-jc.markers.yaml, hash: 'sha256:16a2a9283bacce219a0df9c3431ca46b9fbfdb6eee1eea29ad295ce15bd556cb'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 4584
+  label: 一中風門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d3.h1s1
+    span:
+    - body
+    - 4584
+    - 5990
+  label: 二風痹門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d4.h1s1
+    span:
+    - body
+    - 5990
+    - 6866
+  label: 三心腹痛門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d5.h1s1
+    span:
+    - body
+    - 6866
+    - 7301
+  label: 四霍亂門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d6.h1s1
+    span:
+    - body
+    - 7301
+    - 7749
+  label: 五嘔吐門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d7.h1s1
+    span:
+    - body
+    - 7749
+    - 8286
+  label: 六氣門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d8.h1s1
+    span:
+    - body
+    - 8286
+    - 9013
+  label: 七痰飲門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d9.h1s1
+    span:
+    - body
+    - 9013
+    - 9726
+  label: 八癆瘵門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d10.h1s1
+    span:
+    - body
+    - 9726
+    - 10574
+  label: 九脅痛門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d11.h1s1
+    span:
+    - body
+    - 10574
+    - 11276
+  label: 十腰痛門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d12.h1s1
+    span:
+    - body
+    - 11276
+    - 12460
+  label: 十一腳氣門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d13.h1s1
+    span:
+    - body
+    - 12460
+    - 13823
+  label: 十二積聚門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d14.h1s1
+    span:
+    - body
+    - 13823
+    - 14112
+  label: 十三脾胃門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d15.h1s1
+    span:
+    - body
+    - 14112
+    - 30400
+  label: 十四補益門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d15d2
+    span:
+    - body
+    - 14117
+    - 14898
+  label: 一導引行氣法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d15d3
+    span:
+    - body
+    - 14898
+    - 15392
+  label: 二蝦蟆行氣法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d15d4
+    span:
+    - body
+    - 15392
+    - 17112
+  label: 三入火法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d15d5
+    span:
+    - body
+    - 17112
+    - 17541
+  label: 四龜鱉行氣法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d15d6
+    span:
+    - body
+    - 17541
+    - 17760
+  label: 五雁行氣法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d15d7
+    span:
+    - body
+    - 17760
+    - 18361
+  label: 六龍行氣法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d15d8
+    span:
+    - body
+    - 18361
+    - 19869
+  label: 七入水法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d15d9
+    span:
+    - body
+    - 19869
+    - 21264
+  label: 八寧先生導引行氣法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d15d10
+    span:
+    - body
+    - 21264
+    - 23592
+  label: 九彭祖谷仙臥引法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d15d11
+    span:
+    - body
+    - 23592
+    - 28614
+  label: 十王子喬八神導引法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d15d12
+    span:
+    - body
+    - 28614
+    - 29693
+  label: 十一五禽戲法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d15d13
+    span:
+    - body
+    - 29693
+    - 30400
+  label: 十二服氣吐納訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d16.h1s1
+    span:
+    - body
+    - 30400
+    - 31246
+  label: 十五消渴門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d17.h1s1
+    span:
+    - body
+    - 31246
+    - 32434
+  label: 十六脹滿門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d18.h1s1
+    span:
+    - body
+    - 32434
+    - 33762
+  label: 十七眼目門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d19.h1s1
+    span:
+    - body
+    - 33762
+    - 34038
+  label: 十八喉舌門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d20.h1s1
+    span:
+    - body
+    - 34038
+    - 34436
+  label: 十九口齒門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d21.h1s1
+    span:
+    - body
+    - 34436
+    - 34740
+  label: 二十鼻門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d22.h1s1
+    span:
+    - body
+    - 34740
+    - 34991
+  label: 二十一耳門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d23.h1s1
+    span:
+    - body
+    - 34991
+    - 35599
+  label: 二十二遺泄門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d24.h1s1
+    span:
+    - body
+    - 35599
+    - 36238
+  label: 二十三淋門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d25.h1s1
+    span:
+    - body
+    - 36238
+    - 36700
+  label: 二十四二便不通門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d26.h1s1
+    span:
+    - body
+    - 36700
+    - 36956
+  label: 二十五疝氣門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d27.h1s1
+    span:
+    - body
+    - 36956
+    - 37630
+  label: 二十六諸痔門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d28.h1s1
+    span:
+    - body
+    - 37630
+    - 42670
+  label: 二十七老人門
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d28d2
+    span:
+    - body
+    - 37636
+    - 40077
+  label: 一修真書六字訣
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eo036_jc_000-d28d3
+    span:
+    - body
+    - 40077
+    - 42670
+  label: 二通玄集周天法
+  type: section
+  level: 2
+hash: sha256:bdf935d79a40a8fa6f689616b898a9372e89df6aaaf6eed56037f59a445704fe

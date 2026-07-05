@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo036_000.yaml, hash: 'sha256:13377fcd525bd1f5b257846644dcef9ec88830642b056a803d07c66e7d6b2533'}
+  - {seq: 0, filename: KR3eo036_000.yaml, hash: 'sha256:98442a7c2a1ca8d317e658b6f619bc9674fe5385497933208d2be809bc94e0bd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo036_000.markers.yaml, hash: 'sha256:70d404606342090887a5645f04160cfadf394c308467ea654271468699f95155'}
+  - {seq: 0, role: markers, filename: assets/KR3eo036_000.markers.yaml, hash: 'sha256:f6a3648910ef9eb344d52246cb8e2685530a591ad29cb7d930a9f53e9336aa16'}
 table_of_contents:
 - ref:
     seq: 0
@@ -431,7 +431,4 @@ table_of_contents:
   label: 二通玄集周天法
   type: section
   level: 2
-hash: sha256:9f13a7730bc46cb781f45ffc5ae39a30797ab831b1e90d73c27f310d70fd6f66
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:936ee3c9d5a80e302065a3a0214a4dd4151a8b6b066e50c87a402a6d3420d9b6

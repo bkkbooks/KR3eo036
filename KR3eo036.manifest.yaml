@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3eo036/v1
 canonical_location: https://kanripo.org/bkk/KR3eo036/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 養生導引法
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3eo036_000.yaml, hash: 'sha256:98442a7c2a1ca8d317e658b6f619bc9674fe5385497933208d2be809bc94e0bd'}
+  - {seq: 0, filename: KR3eo036_000.yaml, hash: 'sha256:69e8dc04f0b8f15d96c9169ae39a65a0f2482051bff97be6f35dd4e8cdda4fdd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo036_000.markers.yaml, hash: 'sha256:f6a3648910ef9eb344d52246cb8e2685530a591ad29cb7d930a9f53e9336aa16'}
+  - {seq: 0, role: markers, filename: assets/KR3eo036_000.markers.yaml, hash: 'sha256:214574e30fdbbd54d855bceb0807843678f9e8389f321a857baa9447296950d8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -431,4 +431,7 @@ table_of_contents:
   label: 二通玄集周天法
   type: section
   level: 2
-hash: sha256:936ee3c9d5a80e302065a3a0214a4dd4151a8b6b066e50c87a402a6d3420d9b6
+hash: sha256:156cdde14a9200ada896d73dc737290e38a5121d22598087fca06aff22698104
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

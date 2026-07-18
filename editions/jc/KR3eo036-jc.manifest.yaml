@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eo036_000-jc.yaml, hash: 'sha256:98442a7c2a1ca8d317e658b6f619bc9674fe5385497933208d2be809bc94e0bd'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eo036_000-jc.markers.yaml, hash: 'sha256:16a2a9283bacce219a0df9c3431ca46b9fbfdb6eee1eea29ad295ce15bd556cb'}
+  - {seq: 0, role: markers, filename: assets/KR3eo036_000-jc.markers.yaml, hash: 'sha256:8598568f9ca1621470a2ad3bbd769a06707ecbe5080a409c5a67d20f4e3d02a2'}
 table_of_contents:
 - ref:
     seq: 0
@@ -431,4 +431,4 @@ table_of_contents:
   label: 二通玄集周天法
   type: section
   level: 2
-hash: sha256:bdf935d79a40a8fa6f689616b898a9372e89df6aaaf6eed56037f59a445704fe
+hash: sha256:6825cc607a79a5b253885e75e11e5b6e51a1eb419ec3c9c5beabdc49c6a6c500
